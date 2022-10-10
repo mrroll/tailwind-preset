@@ -1,6 +1,6 @@
 {
   "name": "@mrroll/tailwind-preset",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "license": "MIT",
   "engines": {
     "node": "^14.19.0 || ^16.10.0 || >=17.0.0"
@@ -20,14 +20,16 @@
     "build:alias": "tsc-alias --project build.tsconfig.json --verbose",
     "build:clean": "rimraf ./lib",
     "build:typescript": "cross-env NODE_ENV=production TZ=UTC tsc --project build.tsconfig.json",
-    "dev": "npm-run-all --parallel dev:build",
-    "dev:build": "cross-env NODE_ENV=development TZ=UTC nodemon --config build.nodemon.json"
+    "dev": "npm-run-all --parallel dev:watch dev:build",
+    "dev:build": "cross-env NODE_ENV=development TZ=UTC nodemon --config build.nodemon.json",
+    "dev:watch": "cross-env NODE_ENV=development TZ=UTC TS_NODE_BASEURL=. nodemon --config nodemon.json ./src/dev.ts"
   },
   "volta": {
     "node": "16.17.1",
     "yarn": "1.22.19"
   },
   "dependencies": {
+    "@radix-ui/colors": "^0.1.8",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/line-clamp": "^0.4.2",
