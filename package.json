@@ -1,6 +1,6 @@
 {
   "name": "@mrroll/tailwind-preset",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "license": "MIT",
   "engines": {
     "node": "^14.19.0 || ^16.10.0 || >=17.0.0"
