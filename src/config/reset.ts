@@ -20,7 +20,6 @@ const reset = plugin(({ addBase }) => {
       'white-space': 'normal',
     },
   });
-  // @ts-expect-error We want to ignore this right now.
 }, {});
 
 export default reset;

@@ -4,7 +4,6 @@ const aspectRatioConfig = plugin(
   () => {
     // no-op
   },
-  // @ts-expect-error We want to ignore this right now.
   {
     corePlugins: {
       aspectRatio: false,
