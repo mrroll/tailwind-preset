@@ -1097,12 +1097,12 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@mrroll/eslint-config-typescript@^0.55.0":
-  version "0.55.0"
-  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.55.0.tgz#249f3627ed4237396f4c748d77dc2d7a5a8ba9fe"
-  integrity sha512-U+aMc+qjlZVBqWJ87aR5D3V7aIkkoZxIQntQI7oKG9CJeVf9ba3GAryHbtAGY8asSLtesHr2ieYmPTrQAEWBZA==
+"@mrroll/eslint-config-typescript@^0.56.0":
+  version "0.56.0"
+  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.56.0.tgz#74b0590f68ddded2e457e8a0e382db45458b1097"
+  integrity sha512-GHjESp+ajEcVkYVvDYFUsGJ2mos08ETLle/4BYyHvCB2w09DYka7RiTKIu+F1h2JHo3nTw0ojN66qRZuvEXK2w==
   dependencies:
-    "@next/eslint-plugin-next" "^13.0.3"
+    "@next/eslint-plugin-next" "^13.0.4"
     "@rushstack/eslint-patch" "^1.2.0"
     "@typescript-eslint/eslint-plugin" "^5.43.0"
     "@typescript-eslint/parser" "^5.43.0"
@@ -1116,10 +1116,10 @@
     eslint-plugin-react-native "^4.0.0"
     semver "^7.3.8"
 
-"@next/eslint-plugin-next@^13.0.3":
-  version "13.0.3"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.0.3.tgz#b81ff1f90d8fba7f02fcbe01e87275b0d6e77e4f"
-  integrity sha512-slmTAHNKDyc7jhx4VF8lFbmOPWJ3PShtUUWpb6x9+ga59CyOxgP6AdcDhxfapnWYACKe/TwYiaveufu7LqXgZg==
+"@next/eslint-plugin-next@^13.0.4":
+  version "13.0.4"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.0.4.tgz#46800f48d9f81e8bb460319a15a00bf2f4016e91"
+  integrity sha512-jZ4urKT+aO9QHm3ttihrIQscQISDSKK8isAom750+EySn9o3LCSkTdPGBtvBqY7Yku+NqhfQempR5J58DqTaVg==
   dependencies:
     glob "7.1.7"
 
