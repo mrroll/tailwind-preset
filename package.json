@@ -1,6 +1,6 @@
 {
   "name": "@mrroll/tailwind-preset",
-  "version": "0.64.0",
+  "version": "0.65.0",
   "license": "MIT",
   "engines": {
     "node": "^14.19.0 || ^16.10.0 || >=17.0.0"
@@ -33,7 +33,7 @@
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/line-clamp": "^0.4.2",
-    "@tailwindcss/typography": "^0.5.8",
+    "@tailwindcss/typography": "^0.5.9",
     "tailwindcss-brand-colors": "^0.3.3",
     "tailwindcss-rfs": "^4.0.0",
     "windy-radix-palette": "^0.4.1",
