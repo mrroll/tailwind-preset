@@ -4,8 +4,7 @@
     "allowJs": true,
     "baseUrl": ".",
     "paths": {
-      "@/preset": ["src/index"],
-      "@/preset/*": ["src/*"]
+      "@/*": ["src/*"]
     },
     "outDir": "lib",
     "declaration": true

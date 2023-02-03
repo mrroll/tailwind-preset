@@ -7,8 +7,9 @@ import rfs from 'tailwindcss-rfs';
 import brandColors from 'tailwindcss-brand-colors';
 import windyRadixPalette from 'windy-radix-palette';
 import windyRadixTypography from 'windy-radix-typography';
-import reset from '@/preset/config/reset';
-import aspectRatioConfig from '@/preset/config/aspect-ratio';
+import animate from 'tailwindcss-animate';
+import reset from '@/config/reset';
+import aspectRatioConfig from '@/config/aspect-ratio';
 
 type TPreset = Omit<Config, 'content'>;
 
@@ -26,6 +27,7 @@ const plugins: Config['plugins'] = [
 
   brandColors,
 
+  animate,
   windyRadixPalette,
   windyRadixTypography,
 ];

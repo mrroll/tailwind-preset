@@ -25,3 +25,10 @@ declare module 'tailwindcss-rfs' {
   };
   exports = handler;
 }
+
+declare module 'tailwindcss-animate' {
+  const handler = (): void => {
+    // unknown
+  };
+  exports = handler;
+}
