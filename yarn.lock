@@ -1191,10 +1191,10 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@mrroll/eslint-config-typescript@^0.108.0":
-  version "0.108.0"
-  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.108.0.tgz#abf5092d5c035840ad96b88785054754e435786f"
-  integrity sha512-sqLi+tcGldN0NaHwOZ9ySiu1fSughIxKLWPmGXeK+NTKjZG2lItF17tJgtisClNmM6BgmEEcDf7+uDXd3pL1eQ==
+"@mrroll/eslint-config-typescript@^0.109.0":
+  version "0.109.0"
+  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.109.0.tgz#429a3277d96f81d5a800db2ba0be224c5e9988b0"
+  integrity sha512-cbF8E3mZpQjQb8OJl9ZpX1uuMrTMMYCUL8maLov2UbGbqUuLNaGHsp09tkR8pUas+KvZNEDZkMdW9SDtjHBKLg==
   dependencies:
     "@next/eslint-plugin-next" "^13.1.6"
     "@rushstack/eslint-patch" "^1.2.0"
@@ -7251,10 +7251,10 @@ tailwindcss@^2.0.2:
     resolve "^1.20.0"
     tmp "^0.2.1"
 
-tailwindcss@^3.2.6:
-  version "3.2.6"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.2.6.tgz#9bedbc744a4a85d6120ce0cc3db024c551a5c733"
-  integrity sha512-BfgQWZrtqowOQMC2bwaSNe7xcIjdDEgixWGYOd6AL0CbKHJlvhfdbINeAW76l1sO+1ov/MJ93ODJ9yluRituIw==
+tailwindcss@^3.2.7:
+  version "3.2.7"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.2.7.tgz#5936dd08c250b05180f0944500c01dce19188c07"
+  integrity sha512-B6DLqJzc21x7wntlH/GsZwEXTBttVSl1FtCzC8WP4oBc/NKef7kaax5jeihkkCEWc831/5NDJ9gRNDK6NEioQQ==
   dependencies:
     arg "^5.0.2"
     chokidar "^3.5.3"
