@@ -4,10 +4,6 @@ import forms from '@tailwindcss/forms';
 import lineClamp from '@tailwindcss/line-clamp';
 import aspectRatio from '@tailwindcss/aspect-ratio';
 import rfs from 'tailwindcss-rfs';
-import brandColors from 'tailwindcss-brand-colors';
-import windyRadixPalette from 'windy-radix-palette';
-import windyRadixTypography from 'windy-radix-typography';
-import animate from 'tailwindcss-animate';
 import reset from '@/config/reset';
 import aspectRatioConfig from '@/config/aspect-ratio';
 
@@ -24,12 +20,6 @@ const plugins: Config['plugins'] = [
   reset,
 
   rfs,
-
-  brandColors,
-
-  animate,
-  windyRadixPalette,
-  windyRadixTypography,
 ];
 
 const preset: TPreset = {
