@@ -1,6 +1,6 @@
 {
   "name": "@mrroll/tailwind-preset",
-  "version": "2.10.0",
+  "version": "2.11.0",
   "license": "MIT",
   "engines": {
     "node": "^14.19.0 || ^16.10.0 || >=17.0.0"
@@ -37,8 +37,8 @@
     "tailwindcss-rfs": "^4.0.0"
   },
   "devDependencies": {
-    "@mrroll/eslint-config-typescript": "^0.121.0",
-    "@swc/core": "^1.3.37",
+    "@mrroll/eslint-config-typescript": "^0.122.0",
+    "@swc/core": "^1.3.38",
     "@tsconfig/node16": "^1.0.3",
     "@types/node": "^18.14.6",
     "cross-env": "^7.0.3",
@@ -46,7 +46,7 @@
     "nodemon": "^2.0.21",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.8.4",
-    "rimraf": "^4.3.0",
+    "rimraf": "^4.3.1",
     "tailwindcss": "^3.2.7",
     "ts-node": "^10.9.1",
     "tsc-alias": "^1.8.2",
