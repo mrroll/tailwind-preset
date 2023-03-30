@@ -12,7 +12,6 @@ const plugins: Config['plugins'] = [
   // Official
   typography,
   forms,
-  lineClamp,
   aspectRatio,
   aspectRatioConfig,
 
