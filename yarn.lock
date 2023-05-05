@@ -328,12 +328,12 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mrroll/eslint-config-typescript@^0.164.0":
-  version "0.164.0"
-  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.164.0.tgz#782f2038bcfca80c19677c04ce8e9db0f112226e"
-  integrity sha512-z6lYL9KWMZdeyLWh6jA+mSBkmXE2BEw/7/hc3j5RFtZMULxdmM+nLdJwBOVhylpiiy3yTrBWfnc7SZX4YE9MvA==
+"@mrroll/eslint-config-typescript@^0.165.0":
+  version "0.165.0"
+  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.165.0.tgz#0a260f8ac6441adeefb23b3d9ca72bf4b7284735"
+  integrity sha512-gvewNjIcddtnv2dekOXj6fBTnPrwmRBGY8OG47lqaF4kYsew/jmaK3Zz1OtWeb9o2ccQLGJ8Yt0ZWw0U12c/jg==
   dependencies:
-    "@next/eslint-plugin-next" "^13.3.4"
+    "@next/eslint-plugin-next" "^13.4.0"
     "@rushstack/eslint-patch" "^1.2.0"
     "@typescript-eslint/eslint-plugin" "^5.59.2"
     "@typescript-eslint/parser" "^5.59.2"
@@ -347,10 +347,10 @@
     eslint-plugin-react-native "^4.0.0"
     semver "^7.5.0"
 
-"@next/eslint-plugin-next@^13.3.4":
-  version "13.3.4"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.3.4.tgz#0f1092d89b0801dbe99fc7e712f9bf1d835431a3"
-  integrity sha512-mvS+HafOPy31oJbAi920WJXMdjbyb4v5FAMr9PeGZfRIdEcsLkA3mU/ZvmwzovJgP3nAWw2e2yM8iIFW8VpvIA==
+"@next/eslint-plugin-next@^13.4.0":
+  version "13.4.0"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.4.0.tgz#54ef3147b12a71ff5f7d69dfad49290962263d35"
+  integrity sha512-ZqQi1slguDavpuNUcl9va8+WtHHpgymIW2g+4Gs9FdI+5rjAvrUqqjfCec2hi3Cjbbp7zULFQuAiPwASKHbrxw==
   dependencies:
     glob "7.1.7"
 
