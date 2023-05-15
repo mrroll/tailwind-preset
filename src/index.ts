@@ -21,4 +21,5 @@ const preset: TPreset = {
   plugins,
 };
 
-export = preset;
+module.exports = preset;
+export default preset;
