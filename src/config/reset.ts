@@ -5,6 +5,13 @@ const reset = plugin(({ addBase }) => {
     html: {
       'overflow-y': 'scroll',
     },
+    // Radix UI adds a margin to the right to compensate for the scrollbar
+    // existing then hides it. But it does not acount for the scrollbar being in
+    // the html tag because of the above configuration.
+    // https://stackoverflow.com/a/75149775
+    'body:not(#\\9)': {
+      'margin-right': '0',
+    },
     // https://www.joshwcomeau.com/css/custom-css-reset/
     // https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/
     'html, body, #__next, #root': {
