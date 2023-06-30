@@ -10,7 +10,7 @@ const reset = plugin(({ addBase }) => {
     // the html tag because of the above configuration.
     // https://stackoverflow.com/a/75149775
     'body:not(#\\9)': {
-      'margin-right': '0',
+      'margin-right': '0 !important',
     },
     // https://www.joshwcomeau.com/css/custom-css-reset/
     // https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/
