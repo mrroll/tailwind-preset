@@ -31,7 +31,7 @@ const aspectRatioConfig = plugin(
         16: '16',
       },
     },
-  }
+  },
 );
 
 export default aspectRatioConfig;
