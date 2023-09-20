@@ -723,12 +723,12 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mrroll/eslint-config-typescript@^0.245.0":
-  version "0.245.0"
-  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.245.0.tgz#bddbcd4a6ea0a439a3077a97423cf5602ef057bd"
-  integrity sha512-vAd4Y7hNo6QVkFTznxX2VvGIxxcwYeLwsBdkJ6Ktmiotd7Fk8YnfjZb+Si5E+2pQ0XG/Jgp02s7L/pZhIaeN+g==
+"@mrroll/eslint-config-typescript@^0.246.0":
+  version "0.246.0"
+  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.246.0.tgz#1ccdc9e779b26bc48b8accf27314f653d4b70a30"
+  integrity sha512-eZ2a9Ra0lftZVdmrnAginIzjzHlcg2+n+kx+HNV02aidDOX3+r72wAwG5vWQlDiyB/eKY1htw+nKOcL2CwcLOg==
   dependencies:
-    "@next/eslint-plugin-next" "^13.4.19"
+    "@next/eslint-plugin-next" "^13.5.1"
     "@rushstack/eslint-patch" "^1.4.0"
     "@typescript-eslint/eslint-plugin" "^6.7.2"
     "@typescript-eslint/parser" "^6.7.2"
@@ -737,10 +737,10 @@
     eslint-plugin-react-hooks "^4.6.0"
     eslint-plugin-unicorn "^48.0.1"
 
-"@next/eslint-plugin-next@^13.4.19":
-  version "13.4.19"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.4.19.tgz#93d130c37b47fd120f6d111aee36a60611148df1"
-  integrity sha512-N/O+zGb6wZQdwu6atMZHbR7T9Np5SUFUjZqCbj0sXm+MwQO35M8TazVB4otm87GkXYs2l6OPwARd3/PUWhZBVQ==
+"@next/eslint-plugin-next@^13.5.1":
+  version "13.5.1"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.5.1.tgz#3a254065e0a55a49c9431df43f65d9eb1c3d88f3"
+  integrity sha512-LBlI3iQvlzRE7Y6AfIyHKuM4T6REGmFgweN2tBqEUVEfgxERBLOutV2xckXEp3Y3VbfJBBXKZNfDzs20gHimSg==
   dependencies:
     glob "7.1.7"
 
@@ -829,10 +829,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.16.tgz#0eb3cce1e37c79619943d2fd903919fc30850601"
   integrity sha512-EQHhixfu+mkqHMZl1R2Ovuvn47PUw18azMJOTwSZr9/fhzHNGXAJ0ma0dayRVchprpCj0Kc1K1xKoWaATWF1qg==
 
-"@types/node@^18.17.17":
-  version "18.17.17"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.17.tgz#53cc07ce582c9d7c5850702a3c2cb0af0d7b0ca1"
-  integrity sha512-cOxcXsQ2sxiwkykdJqvyFS+MLQPLvIdwh5l6gNg8qF6s+C7XSkEWOZjK+XhUZd+mYvHV/180g2cnCcIl4l06Pw==
+"@types/node@^18.17.18":
+  version "18.17.18"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.18.tgz#acae19ad9011a2ab3d792232501c95085ba1838f"
+  integrity sha512-/4QOuy3ZpV7Ya1GTRz5CYSz3DgkKpyUptXuQ5PPce7uuyJAOR7r9FhkmxJfvcNUXyklbC63a+YvB3jxy7s9ngw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
