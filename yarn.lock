@@ -471,10 +471,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mrroll/eslint-config-typescript@^0.261.0":
-  version "0.261.0"
-  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.261.0.tgz#746bd5a5763d5364a02feb152f4c0618e4ddabad"
-  integrity sha512-bj6W8IvDEzg/GLFMvqvVIniV0XTrj53oo+vSzS3lVAQxQJuRyPkW7SVdMGDU5qxnoGRtEcbUfQ2NKVv/nAw1SA==
+"@mrroll/eslint-config-typescript@^0.262.0":
+  version "0.262.0"
+  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.262.0.tgz#5fbef72e9841b517bb98b408cc080085c92476ae"
+  integrity sha512-bi6XEk+Q6nQaM+vLTAMZeXaWIoVUGRzNjnQyKhIySCr5c/OZ9N7ALyLmXm+RB+aIioPlsmBuaeuLKt1eAmkXAQ==
   dependencies:
     "@next/eslint-plugin-next" "^13.5.5"
     "@rushstack/eslint-patch" "^1.5.1"
@@ -3567,10 +3567,10 @@ tsconfck@^2.1.0:
   resolved "https://registry.yarnpkg.com/tsconfck/-/tsconfck-2.1.1.tgz#9b51603d2712d1f4740fa14748ca886a2e1893e5"
   integrity sha512-ZPCkJBKASZBmBUNqGHmRhdhM8pJYDdOXp4nRgj/O0JwUwsMq50lCDRQP/M5GBNAA0elPrq4gAeu4dkaVCuKWww==
 
-tsx@^3.13.0:
-  version "3.13.0"
-  resolved "https://registry.yarnpkg.com/tsx/-/tsx-3.13.0.tgz#f860e511b33fcb41d74df87d7ba239a0b4012dbb"
-  integrity sha512-rjmRpTu3as/5fjNq/kOkOtihgLxuIz6pbKdj9xwP4J5jOLkBxw/rjN5ANw+KyrrOXV5uB7HC8+SrrSJxT65y+A==
+tsx@^3.14.0:
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-3.14.0.tgz#be6e2176b6f210fe8f48124fb6e22e0f075e927b"
+  integrity sha512-xHtFaKtHxM9LOklMmJdI3BEnQq/D5F73Of2E1GDrITi9sgoVkvIsrQUTY1G8FlmGtA+awCI4EBlTRRYxkL2sRg==
   dependencies:
     esbuild "~0.18.20"
     get-tsconfig "^4.7.2"
