@@ -471,12 +471,12 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mrroll/eslint-config-typescript@^0.266.0":
-  version "0.266.0"
-  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.266.0.tgz#2f06214a4b82a6780aa7041fedf66f77d03df822"
-  integrity sha512-ydvrJ0SiaUDxyvSARDw1FhZnEKhkkF+ckhszlRQejMvlrbm/Le9BshPUo4gdUCZRXc9frzuYuMXVVG2TxSAVDg==
+"@mrroll/eslint-config-typescript@^0.267.0":
+  version "0.267.0"
+  resolved "https://registry.yarnpkg.com/@mrroll/eslint-config-typescript/-/eslint-config-typescript-0.267.0.tgz#d1dea971da5570e3c0f901c41152c4565072f670"
+  integrity sha512-hOYTc3nOckJZJF5kgi5YP7q45inNlB4YmGWQ0IKchPuM52cY7Cfx/sIGT6R61vLxIyeU+yxpiSNtQ7T6AZSIvw==
   dependencies:
-    "@next/eslint-plugin-next" "^13.5.6"
+    "@next/eslint-plugin-next" "^14.0.0"
     "@rushstack/eslint-patch" "^1.5.1"
     "@typescript-eslint/eslint-plugin" "^6.9.0"
     "@typescript-eslint/parser" "^6.9.0"
@@ -485,10 +485,10 @@
     eslint-plugin-react-hooks "^4.6.0"
     eslint-plugin-unicorn "^48.0.1"
 
-"@next/eslint-plugin-next@^13.5.6":
-  version "13.5.6"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.5.6.tgz#cf279b94ddc7de49af8e8957f0c3b7349bc489bf"
-  integrity sha512-ng7pU/DDsxPgT6ZPvuprxrkeew3XaRf4LAT4FabaEO/hAbvVx4P7wqnqdbTdDn1kgTvsI4tpIgT4Awn/m0bGbg==
+"@next/eslint-plugin-next@^14.0.0":
+  version "14.0.0"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-14.0.0.tgz#b299e61292b8abede7ecb37499feb817385801e6"
+  integrity sha512-Ye37nNI09V3yt7pzuzSQtwlvuJ2CGzFszHXkcTHHZgNr7EhTMFLipn3VSJChy+e5+ahTdNApPphc3qCPUsn10A==
   dependencies:
     glob "7.1.7"
 
