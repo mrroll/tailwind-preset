@@ -1,6 +1,6 @@
 {
   "name": "@mrroll/tailwind-preset",
-  "version": "2.162.0",
+  "version": "2.163.0",
   "license": "MIT",
   "engines": {
     "node": "^14.19.0 || ^16.10.0 || >=17.0.0"
@@ -43,7 +43,7 @@
     "eslint": "^8.53.0",
     "nodemon": "^3.0.1",
     "npm-run-all": "^4.1.5",
-    "prettier": "^3.0.3",
+    "prettier": "^3.1.0",
     "rimraf": "^4.4.1",
     "tailwindcss": "^3.3.5",
     "tsc-alias": "^1.8.8",
