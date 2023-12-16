@@ -1,6 +1,6 @@
 {
   "name": "@mrroll/tailwind-preset",
-  "version": "2.186.0",
+  "version": "2.187.0",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
@@ -36,11 +36,11 @@
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
-    "@mrroll/eslint-config-typescript": "^0.302.0",
+    "@mrroll/eslint-config-typescript": "^0.303.0",
     "@tsconfig/node18": "^18.2.2",
     "@types/node": "^18.19.3",
     "cross-env": "^7.0.3",
-    "eslint": "^8.55.0",
+    "eslint": "^8.56.0",
     "nodemon": "^3.0.2",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.1.1",
